@@ -1,4 +1,4 @@
-import { GreeterUpdate } from './greeter.service';
+import { GreeterUpdate } from './services/greeter.service';
 /*
 https://docs.nestjs.com/modules
 */
